@@ -37,7 +37,7 @@ const settings = {
     // Works on windows and mac, but linux requires you to install the espeak package through your package manager eg: `apt install espeak` `pacman -S espeak`.
 
     "chat_ingame": true, // bot responses are shown in minecraft chat
-    "language": "en", // translate to/from this language. Supports these language names: https://cloud.google.com/translate/docs/languages
+    "language": "ru", // translate to/from this language. Supports these language names: https://cloud.google.com/translate/docs/languages
     "render_bot_view": false, // show bot's view in browser at localhost:3000, 3001...
 
     "allow_insecure_coding": false, // allows newAction command and model can write/run code on your computer. enable at own risk

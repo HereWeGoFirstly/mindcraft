@@ -1,6 +1,7 @@
 {
     "name": "andy",
 
-    "model": "gpt-5-nano"
+    "model": "ollama/sweaterdog/andy-4:q8_0",
 
+    "embedding": "ollama/embeddinggemma"
 }
